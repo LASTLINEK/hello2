@@ -92,4 +92,3 @@ void Icon::mouseReleaseEvent(QMouseEvent * event)
     emit Released();
 }
 //写一些修改进行测试
-//第二次修改pull request
