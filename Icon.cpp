@@ -91,3 +91,4 @@ void Icon::mouseReleaseEvent(QMouseEvent * event)
     swapping = false;
     emit Released();
 }
+//写一些修改进行测试
